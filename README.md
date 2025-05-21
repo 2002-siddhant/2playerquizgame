@@ -1,0 +1,1 @@
+This is a simple two player socket io based quiz game which used js object as question database we can add database in it if we want to and more questions also.
